@@ -1,0 +1,13 @@
+#main {
+  width: 1100px;
+  background-color: #c0aaee;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#main > div {
+  background-color: #9fccfa;
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
